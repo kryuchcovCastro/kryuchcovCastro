@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working as SRE/DevOps in Latailabs<br>🌱 I’m currently learning cloud architecture patterns, specially focus on AI systems<br>💬 Ask me about AI, robotics and SRE<br>⚡ Fun fact... I'm getting in love with philosophy<br><br>Follow my personal profile [![GitHub](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAMAAACahl6sAAAAGFBMVEX///8rJSVQRkb8yafWmnzGYUT91rtbjLWK0jY9AAACPklEQVR4nO3Z3XLjIAxA4bi/7//GDRea0agYRIJkw5xz08aGoG933Ha7jwcRERERERERLd9hWvUMIHc7Yy/Ih6p2oB2kVW2PfX8gQFaG1FBn91/ZAwTITpCIgAABAgTIXpBMTCgCCBAgQIBcAnnlH0/vQEK/swMBEgTJQGgMECCrQDIfdA2ZjgECJBDSO1DnGdCzHgiQlSEyxNeEzkBAgKwK0YDPCWkQECCrQwRRBvh5JmvK5yPD1/ZaDBAgq0PKvfL597Py0Ysp6/S+8j5AgOwEkYHKvTKMfByB6H0CKQEBsipEDqhBpFGIVIPImUCA3BFydIqGtAIC5CpIb7G+P/JDY7lXg7R+aPTOAQRIJqS3ySYDydoZv3xoneceGgiQYEhrs4W0sg957aG3ec8GAuQKiFer37D1Hz3yDU/qrR35E2+uAwIkCDLSYWoN2coCpgwHBEgCxPvGdoh3mgoAAiQQot+8/DL595n3INnTK+xvwA4DBEhA+hA9WO9wLyINAwRIUp6HfhRxCQYIkASMHG4HqN3Xr1v3gADZBWIfep0dTK71XqdjgABJwOghBGW/CHgg9hoQIKtDaiA7EBAgQP53BvG8BhIRkDtC9JC1a541lwcESEBlCPugy3Uv5BYPPJAHkJjOBvFAWvvTA9LZn95WkLMBvZDa9fSAdPantwXkMLWuj6xNDwiQRMTZvdH1aQEBEtQrQ3nvZczfPRgIkIDsoD3ILYauBeRubQmZse6ygNytbSBEREREREQD/QGnrHaxQ/W7iQAAAABJRU5ErkJggg==)](https://github.com/Kryuchcov)
+🔭 I’m currently working as SRE/DevOps in Latailabs<br>🌱 I’m currently learning cloud architecture patterns, specially focus on AI systems<br>💬 Ask me about AI, robotics and SRE<br>⚡ Fun fact... I'm getting in love with philosophy
+
+## Follow my personal profile:
+[![GitHub](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)](https://github.com/Kryuchcov)
 
 
 ## 🌐 Socials:
@@ -8,18 +11,18 @@
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kryuchcov&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kryuchcov&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kryuchcov&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kryuchcovCastro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kryuchcovCastro&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kryuchcovCastro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kryuchcov&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kryuchcovCastro&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kryuchcov&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=kryuchcovCastro&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kryuchcov&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kryuchcovCastro&icon=5&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kryuchcov) 
