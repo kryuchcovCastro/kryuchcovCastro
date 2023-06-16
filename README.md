@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as SRE/DevOps in Latailabs<br>🌱 I’m currently learning cloud architecture patterns, specially focus on AI systems<br>💬 Ask me about AI, robotics and SRE<br>⚡ Fun fact... I'm getting in love with philosophy<br><br>[![GitHub](https://www.seekpng.com/png/detail/192-1923013_transparent-png-github-logo.png)](https://github.com/Kryuchcov)
+🔭 I’m currently working as SRE/DevOps in Latailabs<br>🌱 I’m currently learning cloud architecture patterns, specially focus on AI systems<br>💬 Ask me about AI, robotics and SRE<br>⚡ Fun fact... I'm getting in love with philosophy<br><br>[![GitHub](https://cdn-learn.adafruit.com/assets/assets/000/112/622/medium800/programming_GitHub_logo_with_mark.png?1656187481)](https://github.com/Kryuchcov)
 
 
 ## 🌐 Socials:
