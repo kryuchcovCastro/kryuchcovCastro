@@ -26,6 +26,8 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kryuchcov) 
+  ##
+  [![](https://media4.giphy.com/media/CxIz1GZEw4St2/giphy.gif)]()
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
